@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋Welcome to my profile ;) </h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=7000&pause=0050&color=00F724&width=435&lines=Ol%C3%A1%2C+Seja+Bem-vindo+ao+meu+perfil++!;Me+chamo+Guilherme+Barbosa" alt="Typing SVG" /></a></h1>
 
 
 <div align="center">
@@ -54,10 +54,10 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/x-GB-x/x-GB-x/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/x-GB-x/x-GB-x/output/pacman-contribution-graph.svg" />
-  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/x-GB-x/x-GB-x/output/pacman-contribution-graph.svg" />
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/x-GB-x/x-GB-x/output/github-contribution-grid-snake.svg">
 </picture>
 
 
